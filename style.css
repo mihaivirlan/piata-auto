@@ -1,0 +1,391 @@
+	body {
+			text-align:center;
+			background:#e8e8e8;
+			background-color:#e8e8e8;
+			background-size: contain;
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			margin-top: 30px;
+	}
+	
+
+	a,a:hover {
+			text-decoration:none;
+	}
+ 
+	.container {
+			background-color:white;
+			border-radius:10px;
+			box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.5);
+			font-size:20px;
+			margin-bottom: 30px;
+			font-family: Bitter;
+	
+	}
+	
+ 
+	.kilometraj{
+			font-size: 20px;
+			text-decoration:none;
+			color:#000000;
+			font-weight: bold;
+			margin: 0px 65px;
+			width: 200px;
+			border-radius: 5px;
+	}
+	
+
+	.Pret{
+			font-size: 15px;
+			text-decoration:none;
+			color:#a90a0a;
+			font-weight: bold;
+    
+	}
+	
+
+	.img_produs{
+			height:220px;
+			width:280px;
+			border-radius:10px;
+			box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.8);
+			
+
+	}
+
+
+	.title{
+			color:#0070ff;
+			text-align: center;
+			font-size: 20px;
+			font-weight: bold;
+			font-family:Bitter;
+	}
+
+
+	.title3{
+		    font-size: 20px;
+			text-decoration:none;
+			color:#000000;
+			font-weight: bold;
+			margin:0px 65px;
+			width: 200px;
+			border-radius: 5px;
+
+	}
+
+
+	.title4{
+			text-decoration:none;
+			background: white;
+			color:#000000;
+			font-size:15px;
+			font-weight:bold;
+			transition: 1s;
+			border-radius:50px;
+
+	}
+
+
+	.title4:hover {
+			color: white;
+			background:red;
+			border-radius: 35px;
+
+	}
+
+
+	.test{
+			color:#000000;
+			background: white;
+			transition: 1s;
+			font-size: 15px;
+			font-weight: bold;
+			margin: 10px 85px;
+			border-radius: 50px;
+	
+	}
+
+
+	.test:hover {
+			color: white;
+			background:red;
+			border-radius: 35px;
+
+	}
+
+
+
+	 #menu li active a:focus a:active {
+			background-color:#e21616;
+	}
+
+
+	.cumpara_auto {
+			background-color: rgba(255, 255, 255, 0.5);
+			width: 1280px;
+			height:700px;
+	}
+
+
+	.vezi_detalii {
+			background-color: rgba(255, 255, 255, 0.5);
+			width: 1280px;
+			height:700px;
+	
+	}
+
+
+	.text_auto {
+			background-color:#f3f3f3;
+			border-radius:10px;
+			border-style: outset;
+			text-align: center;
+			
+	}
+
+
+	.informatii {
+			color:#000000;
+			font-size:15px;
+			font-family: Bitter;
+	
+	}
+
+
+	.marca{
+	        font-family:Bitter;
+	        font-size:20px;
+	        color:#616167;
+		
+	}
+
+
+	.culoare {
+			font-size: 20px;
+			text-decoration:none;
+			color:#000000;
+			font-weight: bold;
+			margin: 0px 65px;
+			width: 200px;
+			border-radius: 5px;
+	}
+
+
+	.raspuns_cumpara {
+		    font-size:23px;
+		    font-family:Fresca,bold;
+		    color:#3c3332;
+	}
+
+
+	.test3 {
+			color:#5a1600;
+			border-radius:10px;
+			background:white;
+			transition:1s;
+			font-family:Bitter;
+			font-size:15px;
+
+	}
+
+
+	.test3:hover {
+			color:white;
+			background:red;
+			
+	}
+
+
+	.contacte{
+			font-family:Bitter;
+			font-size:18px;
+			color:#483535;
+	}
+
+
+	.adresa {
+			font-size:16px;
+			font-family: 'Fira Sans', bold;
+			color:#000000;
+			background-color:#dcdcdc;
+			border-radius:15px;
+			background-position: center;
+	
+	}
+
+
+	.text_despre {
+			font-family:Arial;
+			color:#000000;
+			border-style: groove;
+			border-radius:10px;
+			background-color: rgba(255, 255, 255, 0.5);
+	}
+
+	.pagination {
+			font-family:Bitter;
+			font-size:20px;
+			padding:30px;
+			color:#afafaf;
+			margin-left:5px;
+			
+	}
+
+
+	.in_sus {
+			font-family:Bitter;
+			font-size:20px;
+			color:#05090a;
+			background-color:#868282;
+			border-radius:10px;
+		    width:400px;
+			text-align:center;
+	}
+
+
+	.imagini_2 {
+			border-radius:10px;
+	
+	}
+
+
+
+	.container_produs{
+			color:#2e2e2e;
+			font-family:Arial;
+			padding: 20px;
+	}
+
+
+	.formular{
+			font-family:Fresca,bold;
+			text-align: center;
+			border-radius: 15px;
+	}
+
+
+	.form_logare{
+			font-size:18px;
+			font-family:Fresca;
+			background-color:#f7f7f7;
+			color:black;
+	}
+
+
+	.buton_submit{
+			font-size: 15px;
+			font-family: Bitter;
+			color:white;
+			background-color:#616161;
+			border-radius:50px;
+	}
+
+
+	.aliniere_box{
+			text-align:center;
+			font-size:15px;
+	}
+
+
+	.tip_anunt{
+			font-size:25px;
+			font-family:Arial;
+	}
+
+
+	.linie{
+		    height: 0.1;
+	}
+	
+
+	.click_button{
+			background-color: #a9a8a8;
+			color: white;
+			font-size: 18px;
+	}
+
+
+	.caseta_text{
+			background-color: #ffffff;
+			color: black;
+			font-size: 15px;
+	}
+
+
+	.pagina_principala{
+			background-color:white;
+			border-radius:10px;
+			box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.5);
+			margin-top:40px;
+	
+	}
+
+
+	.menu_baza{
+	       	margin-top:5px;
+	       	color:#34a0ff;
+	       	font-family:'Source Sans Pro', sans-serif;
+	       	font-size:25px;
+	}
+
+
+	.stiri{
+			text-align: center;
+		
+	}
+
+
+
+	.div_test{
+			background:red;
+			font-size:30px;
+	}
+
+	.rezultat_search {
+			text-align: center;
+	}
+	
+	
+	.menu{
+			background-color:white;
+			border-radius:10px;
+			box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.5);
+			margin-top:50px;
+			font-size:20px;
+	}
+	
+	.logo_foter{
+			background-color:white;
+			border-radius:10px;
+			box-shadow: -1px -1px 30px 0px rgba(0,0,0,0.5);
+			font-size:20px;
+			font-family:Bitter;
+			margin-bottom: 800px;
+	}
+
+
+	.menu_optional{
+			margin-top:10px;
+		    color:#34a0ff;
+		    font-family:'Source Sans Pro', sans-serif;
+		    font-size:20px;
+	}
+	
+
+	.scroll-top {
+			 width: 80px;
+			 height: 40px;
+			 margin-bottom: 5px;
+			 left: 20px;
+			 display: none;
+	}
+
+
+	.marca2{
+			background-color: #e8e8e8;
+			margin-left:  500px;
+			margin-right: 500;
+			border-radius:10px;
+		
+	}

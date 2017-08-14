@@ -1,0 +1,27 @@
+<!doctype html>
+    <title> </title>
+      <head>
+          <meta charset="UTF-8">
+          <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+          <link rel="stylesheet" href="bootstrap/js/bootstrap.js">
+          <link rel="stylesheet" href="style.css">
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter:bold">
+          <link href="https://fonts.googleapis.com/css?family=Fresca" rel="stylesheet">
+       </head>
+       
+<body>
+   <div class="container"><br>
+     <div class="formular">
+            <b>Vă rugăm creați cont nou</b> <br><br>
+            <form action="/sait/inregistrare.php" method="post">
+                     <input type="text" name="numele" class="form-control form_logare" placeholder="Numele dvs." required  pattern="^[a-z]+$"> <br>
+                     <input type="text" name="prenumele" class="form-control form_logare" placeholder="Prenumele dvs." required  pattern="^[a-z]+$" ><br>
+                     <input type="tex" name="adresa"  class="form-control form_logare" placeholder="Adresa dvs." required> <br>
+                     <input type="text" name="mail" class="form-control form_logare" placeholder="E-mail" required> <br>
+                     <input type="password" name="parola" class="form-control form_logare" placeholder="Parola" required> <br>
+                     <input type="submit" value="Submit" class="btn btn-default buton_submit"> <br><br>
+            </form> 
+      </div>
+    </div>
+</body>
+</html>
